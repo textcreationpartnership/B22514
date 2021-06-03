@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands memorial, or a thankful remembrance upon the present never to be forgotten deliverance of both King and nation from the bloody Popish Plot. Shewing, that the Papists by their principles are real enemies to out King and countrey. / By a well-wisher to the Protestant religion.</title>
+            <author>Well-wisher to the Protestant religion.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22514</idno><idno type="EEBO-CITATION">99886675</idno>
+  <idno type="VID">186987</idno>
+  <idno type="EEBO-PROQUEST">2240894896</idno>
+  
+            <idno type="STC">Wing E2993A</idno>
+            <idno type="STC">Interim Tract Supplement Guide Lutt.III[111]</idno>
+            <idno type="STC">ESTC R226352</idno>
+            <idno type="PROQUEST">ocm99886675</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886675e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22514)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186987)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C6:1[113])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands memorial, or a thankful remembrance upon the present never to be forgotten deliverance of both King and nation from the bloody Popish Plot. Shewing, that the Papists by their principles are real enemies to out King and countrey. / By a well-wisher to the Protestant religion.</title>
+                  <author>Well-wisher to the Protestant religion.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Blest be our God, that gloriously did save".</note>
+                  <note>Imperfect: cropped and torn, with loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Popish Plot, 1678 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:186987:1"/>
+            <head>ENGLANDS MEMORIAL, OR A THANKFUL REMEMBRANCE Upon the present Never to be Forgotten Deliverance of Both KING AND NATION FROM THE Bloody Popish PLOT▪</head>
+            <head type="sub">Shewing, That the Papists by their Principles are Real Enemies to our KING and Countrey.</head>
+            <byline>By a Well-Wisher to the Protestant Religion.</byline>
+            <lg>
+               <l>BLEST be our God, that gloriously did save</l>
+               <l>Both King and People, from that dreadful Grave,</l>
+               <l>Which <hi>Anti-christ</hi> had dig'd both long and deep,</l>
+               <l>To bury our Nation in a dismal sleep.</l>
+               <l>O that this Day might never be forgot;</l>
+               <l>No, nor the Papists who did lay the Plot.</l>
+               <l>Blest be that God who looked down from high,</l>
+               <l>And set us free, who were Condemn'd to dye.</l>
+               <l>Well, let this mercy never be forgotten,</l>
+               <l>But live in minds when we are dead and rotten?</l>
+               <l>That future Ages may this thing record,</l>
+               <l>And give the Praise unto the highest Lord;</l>
+               <l>Who only did this great Salvation bring</l>
+               <l>To all the Nation, and unto our King.</l>
+               <l>Blest be our God, who did deliver us free,</l>
+               <l>And caught themselves in that they lay'd for we.</l>
+               <l>For <hi>Englands</hi> God who knew their Curst design,</l>
+               <l>Did wisely work, even by a Countermine.</l>
+            </lg>
+            <lg>
+               <l>Oh! what dark times hath <hi>England</hi> often seen;</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en not long since in th'dayes of <hi>Mary</hi> Queen?</l>
+               <l>How did she then the Blood of Saints most dear,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>Smith</hi> field spill, and <hi>England</hi> every where.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that all those who would not fall before,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Worship Idols and the beastly Whore;</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey would not by their delusions turn,</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e next News was, they should for certain burn.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that in <hi>Smith</hi>-field many a one did burn,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecause they would not unto Popery turn.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut yet after those black and gloomy dayes,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od did shew forth his glorious Beams and Rays.</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>other Queen, <hi>Elizabeth</hi> by Name,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho did uphold and Protestants maintain.</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd then the Gospel got some Breath, which was</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efore Extirpate, and his Glory has</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d forth full bright▪ to many in this Land,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho have accepted it with Heart and Hand.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> often have they tri'd again to rise,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd many a time by Plots they did devise</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow they the Gospel might again devour,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd in Christs stead, set up th' Ant'christian whore.</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h! that the day might never be forgot,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n which Hells Agents layd the Powder Plot;</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>Vhich had not Mercy stopt their Cruel hands,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey fairly bid for all the three whole Lands.</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow often has their Plots been deeply layd;</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut Heavens bright Eye hath often them betrayd.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd now of late what Mercy have we seen,</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nk the like hath hardly ever been.</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at God should in the very Nick of time,</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ke known and shew their desperate design.</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho will not wonder, if they have their Eyes</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t on that Light that darkness still descries?</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that its true, as it hath often been,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat on this Mount our God was fairly seen.</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut surely were't not for our bloody Crimes,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey ne're should prosper in such Curst designs?</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t its our sins which opens wide the Gap</l>
+               <l>Righteous Judgments to come in thereat.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> did indeed from <hi>Israel o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Old,</l>
+               <l>Sometimes depart, and with his Enemies hold.</l>
+               <l>VVhen by their sins they did from God depart,</l>
+               <l>He them forsook, and took their Enemies part.</l>
+               <l>But 'twas not so, when they their God did keep,</l>
+               <l>A handful then did beat a mighty heap.</l>
+               <l>Two little Kids of <hi>Israelites</hi> di<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> sl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n hundred thousand <hi>Syrians</hi> in one day.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that if ever we mean to save our Land,</l>
+               <l>V<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e must have God upon our side to stand.</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>herefore, O <hi>England,</hi> keep close to thy God;</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd then fear not the Popish Scourging Rod.</l>
+               <l>But if we do by wicked works depart,</l>
+               <l>Then God will give us up, and make us smart,</l>
+               <l>Into their hands which will our Butchers be,</l>
+               <l>And us destroy with all their Cruelty.</l>
+            </lg>
+            <lg>
+               <l>But if we would the mighty Lord sure keep,</l>
+               <l>Then we must pray, watch, mourn, and often weep:</l>
+               <l>So he'll arise, and fully plead our Cause</l>
+               <l>Against Hell, Pope and all their Cursed Laws.</l>
+               <l>Oh! how much Blood hath <hi>Babel</hi> drunk before,</l>
+               <l>So that she's fitly call'd the drunken Whore?</l>
+               <l>Who have drunk of th'Blood of th'Saints full deep,</l>
+               <l>And thousands have layd in a dead fast sleep.</l>
+               <l>Much Blood has been shed by her oft before</l>
+               <l>In <hi>England, Ireland,</hi> and in <hi>Paris</hi> more.</l>
+            </lg>
+            <lg>
+               <l>Two hundred thousand innocent souls and more,</l>
+               <l>Was slain in <hi>Ireland</hi> by the Scarlet VVhore.</l>
+               <l>And now again she doth attempt this thing,</l>
+               <l>To Murder Subjects, and to kill our King.</l>
+               <l>O Cursed Monsters! is this religious Reason,</l>
+               <l>For to slay Princes, and say its no Treason.</l>
+               <l>Yet this is she that would be counted Heir,</l>
+               <l>Because she saith she sits in <hi>Peters</hi> Chair.</l>
+               <l>But prethee <hi>Rome</hi> tell us the truth, and bring</l>
+               <l>The time and place where <hi>Peter</hi> taught this thing▪</l>
+               <l>Yea, this is she that Mother Church would be,</l>
+               <l>Yet teach for truth such Immorality.</l>
+               <l>For worst of H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>athens do Condemn this Spirit,</l>
+               <l>VVhich yet the Papists say thereby they Merit.</l>
+               <l>So by this Rule you'll easily guels this thing,</l>
+               <l>What Enemies such must needs be to our King.</l>
+            </lg>
+            <lg>
+               <l>What, <hi>Rome!</hi> did'st think to take us in this plight,</l>
+               <l>Before your Works of darkness came to light.</l>
+               <l>Or did you think Heavens bright Eye could not see,</l>
+               <l>Nor yet would judge for this your Villanie:</l>
+               <l>No <hi>Rome,</hi> believe it; God that sits above</l>
+               <l>VVill judge thy Tyranny, and will remove</l>
+               <l>Thee from that Seat where thou sit'st as a Queen,</l>
+               <l>In brave Attire, and hath no sorrow seen.</l>
+               <l>But stay a while, thy Plagues shall come one day,</l>
+               <l>VVhen Christ will all his dear Saints blood repay</l>
+               <l>Upon thy Head, and give thee blood to drink</l>
+               <l>Because thou'rt worthy he doth surely think.</l>
+            </lg>
+            <lg>
+               <l>O Friends, see how the <hi>Antichr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>stian</hi> VVhore,</l>
+               <l>Doth by her wiles, her policy and power</l>
+               <l>End<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>avor once more Christs subjects t' enthrall,</l>
+               <l>And bring them down before that Beast to fall.</l>
+               <l>O monstrous Head with thy long tripple Crown,</l>
+               <l>VVhat did'st thou think th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <hi>England</hi> would fall dow<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>To VVorship thee and Idols dumb adore,</l>
+               <l>No sure, there's some, those th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ughts do much abhor,</l>
+               <lg>
+                  <l>Though some there are, yet other some there be,</l>
+                  <l>VVho never will fall down, nor give the Knee</l>
+                  <l>To such a monstrous Head and VVhore as thee.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>VVell, let Hell plot, and all <hi>Rome</hi>'s Brats conspire</l>
+               <l>Against Christ, and his Interest to expire.</l>
+               <l>VVe'll never fear, if we but keep our God,</l>
+               <l>That ever <hi>Rome</hi> shall be's afflicting Rod.</l>
+            </lg>
+            <lg>
+               <l>Lord, let not darkness Cover again our Land,</l>
+               <l>Nor us give up into the Papists hand?</l>
+               <l>The worst of Heathens us to kill and slay:</l>
+               <l>Say, <hi>I<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s enough,</hi> Dear Lord, and thy Hand stay.</l>
+               <l>But now if we the Lords just Hand would stay,</l>
+               <l>VVe must make Conscience then to fast and pray,</l>
+               <l>Yea, we our ways must likewise well reform,</l>
+               <l>Or else we shal see yet a greater storm.</l>
+               <l>But if this Land would throughly do this thing,</l>
+               <l>Then we should save both Nation and our King.</l>
+               <l>And then ere long there would be shouts and cries,</l>
+               <l>
+                  <hi>That</hi> Babylon'<hi>s fallen, 's fallen, and never more shall rise.</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ONDON Printed in the YEAR 1678.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
